@@ -12,7 +12,7 @@ $DBTYPE = "MYSQLI";
 $DBNAME = "";
 
 //The database server's IP or machine name. "localhost" can be used if the WEB server is on the same machine.
-//$HOST = "176.235.141.70";
+//$HOST = "";
 $HOST = "";
 //The database server' s port number
 $PORT = "";
